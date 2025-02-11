@@ -13,7 +13,6 @@ A modern web-based language translation tool built with HTML, CSS, and JavaScrip
 ## Table of Contents
 * [Overview](#overview)
 * [Features](#features)
-* [Demo](#demo)
 * [Technologies Used](#technologies-used)
 * [Installation](#installation)
 * [Usage](#usage)
